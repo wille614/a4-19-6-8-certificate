@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this certificate or verifier."
+title: "Exact rational certificate for A(19,6,8) <= 673"
+type: software
+version: 1.0.0
+date-released: 2026-11-03
+url: "https://github.com/wille614/a4-19-6-8-certificate"
+repository-code: "https://github.com/wille614/a4-19-6-8-certificate"
+license: Apache-2.0
+authors:
+  - family-names: Chang
+    given-names: Jiang
+    orcid: "https://orcid.org/0009-0006-8310-632X"
+    affiliation: "College of Computer Science and Software Engineering, Hohai University, Nanjing, China"
+preferred-citation:
+  type: article
+  title: "A new upper bound for A(19,6,8)"
+  authors:
+    - family-names: Chang
+      given-names: Jiang
+      orcid: "https://orcid.org/0009-0006-8310-632X"
+      affiliation: "College of Computer Science and Software Engineering, Hohai University, Nanjing, China"
+  year: 2026
+  journal: arXiv
+  url: "https://arxiv.org/abs/2611.00173"
+  identifiers:
+    - type: other
+      value: "arXiv:2611.00173"
